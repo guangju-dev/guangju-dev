@@ -1,4 +1,7 @@
-大家好，我是某举T-T，双非硕计科在读，研二暑假实习中，本人水平有限，如果有错误或者疑问欢迎加我微信curry6_6交流，欢迎大家关注我的👉[**B站频道**](https://space.bilibili.com/74568474 "B站频道")👈，感谢各位大佬的支持\~
+大家好，我是某举T-T，双非硕计科在读，研二暑假实习中，PC&~~主机~~游戏玩家，本人认知能力和技术水平有限，如果有错误或者疑问欢迎加我微信交流，并且非常希望大家关注我的👉[**B站频道**](https://space.bilibili.com/74568474)👈，求求了，最后感谢各位大佬的支持~
+
+-  Steam好友代码 351456483
+-  微信 curry6_6
 
 ### 🔹目前
   -   暑假实习中
@@ -25,3 +28,8 @@
 ### 🔹Friends
   -   [**AruNi**](https://aruni.me/docs/ "AruNi")
   -   [**Golruri**](https://goiruri.github.io/ "Golruri")
+### 🔹博客
+  - [辜飞俊的博客](https://www.gufeijun.com/)（手写net/http库...）
+  - [刘丹冰](https://www.yuque.com/aceld/golang)（Golang修养之路）
+  - [许大仙](https://www.yuque.com/fairy-era/yg511q)（Java为主）
+  - [李阿昀](https://liayun.blog.csdn.net/)
