@@ -4,7 +4,8 @@
 -  微信 curry6_6
 
 ### 🔹目前
-  -   暑假实习中
+  -   某中厂实习中
+  -   秋招中
 ### 🔹笔记
   -   **\[****面试****]**[八股文整理](https://www.wolai.com/curry00/P5cgmY7kRzMXDRdUjR7XD "八股文整理")(整理中，暂不开放😭)
   -   **\[****算法****]**[共识算法笔记](https://www.wolai.com/curry00/itx4oASPUTR15mtcrZtcn6 "共识算法笔记")
