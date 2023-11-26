@@ -7,7 +7,7 @@
   -   某中厂实习中
   -   准备论文预答辩中
 ### 🔹笔记
-  -   **\[****面试****]**[八股文整理](https://www.wolai.com/curry00/P5cgmY7kRzMXDRdUjR7XD "八股文整理")(整理中，暂不开放😭)
+  -   **\[****面试****]**[八股文整理](https://www.wolai.com/curry00/P5cgmY7kRzMXDRdUjR7XD "八股文整理")
   -   **\[****算法****]**[共识算法笔记](https://www.wolai.com/curry00/itx4oASPUTR15mtcrZtcn6 "共识算法笔记")
   -   **\[****算法****]**[力扣算法刷题笔记](https://www.wolai.com/k8CZJCY3wwWWc11ApSomF "力扣算法刷题笔记")
   -   **\[****项目****]**[MIT6.824](https://www.wolai.com/qo6gAWvSCBGfv9yCY2pA2R "MIT6.824")(lab1\&lab2)
