@@ -4,7 +4,6 @@
 -  微信 curry6_6
 
 ### 🔹目前
-  -   某中厂实习中
   -   准备论文预答辩中
 ### 🔹笔记
   -   **\[****面试****]**[八股文整理](https://www.wolai.com/curry00/P5cgmY7kRzMXDRdUjR7XD "八股文整理")
