@@ -27,7 +27,7 @@
   -   **\[****工具****]**[Nginx学习笔记](https://www.wolai.com/qBwyKs5GyBHqP1zo1DNQEF "Nginx学习笔记")
   -   **\[****比赛****]**[2022华为软件精英挑战赛](https://www.wolai.com/geVswNzTUZn78ytkhQ7Fcb "2022华为软件精英挑战赛")（记录）
 ### 🔹Friends
-  -   [**AruNi**](https://aruni.me/docs/ "AruNi")
+  -   [**AruNi**](https://0x3f4.run/)
   -   [**Golruri**](https://goiruri.github.io/ "Golruri")
 ### 🔹博客
   - [辜飞俊的博客](https://www.gufeijun.com/)
