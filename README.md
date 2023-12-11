@@ -30,7 +30,7 @@
   -   [**AruNi**](https://aruni.me/docs/ "AruNi")
   -   [**Golruri**](https://goiruri.github.io/ "Golruri")
 ### 🔹博客
-  - [辜飞俊的博客](https://www.gufeijun.com/)（手写net/http库...）
-  - [刘丹冰](https://www.yuque.com/aceld/golang)（Golang修养之路）
-  - [许大仙](https://www.yuque.com/fairy-era/yg511q)（Java为主）
+  - [辜飞俊的博客](https://www.gufeijun.com/)
+  - [刘丹冰](https://www.yuque.com/aceld/golang)
+  - [许大仙](https://www.yuque.com/fairy-era/yg511q)
   - [李阿昀](https://liayun.blog.csdn.net/)
