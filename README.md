@@ -4,7 +4,7 @@
 -  微信 curry6_6
 
 ### 🔹目前
-  -   准备论文预答辩中
+  -   准备毕业论文中
   -   准备春招中
 ### 🔹笔记
   -   **\[****面试****]**[八股文整理](https://www.wolai.com/curry00/P5cgmY7kRzMXDRdUjR7XD "八股文整理")
@@ -30,7 +30,7 @@
   -   [**AruNi**](https://0x3f4.run/)
   -   [**Golruri**](https://goiruri.github.io/ "Golruri")
 ### 🔹博客
-  - [辜飞俊的博客](https://www.gufeijun.com/)
+  - [辜飞俊](https://www.gufeijun.com/)
   - [刘丹冰](https://www.yuque.com/aceld/golang)
   - [许大仙](https://www.yuque.com/fairy-era/yg511q)
   - [李阿昀](https://liayun.blog.csdn.net/)
