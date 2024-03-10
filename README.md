@@ -20,6 +20,7 @@
   - [AruNi](https://aruni.me/)
   - [Golruri](https://goiruri.github.io/)
   - [bigbigni](http://bigbigni.github.io)
+  - [JimmyTalk](https://blog.pjmcode.top/)
 
 #### More
   - [辜飞俊](https://www.gufeijun.com/)
