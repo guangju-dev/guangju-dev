@@ -1,35 +1,27 @@
-大家好，我是某举T-T，双非硕计科在读，研三，PC&~~主机~~游戏玩家，本人认知能力和技术水平有限，如果有错误或者疑问欢迎加我微信交流，并且非常希望大家关注我的👉[**B站频道**](https://space.bilibili.com/74568474)👈，求求了，最后感谢各位大佬的支持~
+大家好，我是guangju_dev，双非（普本，非强计算机双非）计算机专硕在读，研三（快毕业了），steam&~~主机~~(全嫖朋友的盘)游戏玩家
+
+本人深知认知能力和技术水平相当有限，有些笔记是很久之前看着一些视频记录的，八股也参考了小林coding和JavaGuide等大佬的文章，如果有错误或者疑问欢迎加我微信交流
+
+非常非常非常非常希望大家关注我的[B站频道](https://space.bilibili.com/74568474)，感谢各位大佬的支持~
 
 -  Steam好友代码 351456483
 -  微信 curry6_6
 
-### 🔹目前
-  -   准备毕业论文中
-  -   准备春招中
-### 🔹笔记
-  -   **\[****面试****]**[八股文整理](https://www.wolai.com/curry00/P5cgmY7kRzMXDRdUjR7XD "八股文整理")
-  -   **\[****算法****]**[共识算法笔记](https://www.wolai.com/curry00/itx4oASPUTR15mtcrZtcn6 "共识算法笔记")
-  -   **\[****算法****]**[力扣算法刷题笔记](https://www.wolai.com/k8CZJCY3wwWWc11ApSomF "力扣算法刷题笔记")
-  -   **\[****项目****]**[MIT6.824](https://www.wolai.com/qo6gAWvSCBGfv9yCY2pA2R "MIT6.824")(lab1\&lab2)
-  -   **\[****项目****]**[手写Docker](https://www.wolai.com/curry00/rjPry5XyA6BLYyUoEaDWDm "手写Docker")
-  -   **\[****项目****]**[Micro微服务项目](https://www.wolai.com/jgjN7MrDFHJMbqfDHHQASM "Micro微服务项目")
-  -   **\[****项目****]**[手写ORM框架](https://www.wolai.com/9Xy8kYiU1vxDvW6h2Kj27s "手写ORM框架")
-  -   **\[****项目****]**[手写简易Web框架](https://www.wolai.com/eyR9zThJjhoHUvGJuTnLAC "手写简易Web框架")
-  -   **\[****项目****]**[手写简易RPC框架](https://www.wolai.com/6hAHLhsvJRGYLRKtcReQ45 "手写简易RPC框架")
-  -   **\[****项目****]**[手写分布式缓存](https://www.wolai.com/8ga1RzHujekcsKjG3EV25d "手写分布式缓存")
-  -   **\[****语言****]**[Go学习笔记](https://www.wolai.com/dPPVnFiUWmPFWZZ7eicxwa "Go学习笔记")
-  -   **\[****数据库****]**[MySql学习笔记](https://www.wolai.com/uTbRLinYVoBevYqKWBXwvj "MySql学习笔记")
-  -   **\[****数据库****]**[Redis学习笔记](https://www.wolai.com/esmyTD1sRJD5DzjzbYTT1h "Redis学习笔记")
-  -   **\[****工具****]**[Docker学习笔记](https://www.wolai.com/t2odGrsSrdp9jgkzRi4cY8 "Docker学习笔记")
-  -   \[**工具**][Kubernetes学习笔记](https://www.wolai.com/KozWvj9ReyJ3AGdCAsB45 "Kubernetes学习笔记")
-  -   **\[****工具****]**[FastDFS学习笔记](https://www.wolai.com/uvvzckKu389EMTsKjkKNAQ "FastDFS学习笔记")
-  -   **\[****工具****]**[Git基本使用](https://www.wolai.com/f4kimShCCt2Nu4BrPSY3JChttps://www.wolai.com/curry00/eTmVzzFGXA89CwYv7pDttF "Git基本使用")
-  -   **\[****工具****]**[Nginx学习笔记](https://www.wolai.com/qBwyKs5GyBHqP1zo1DNQEF "Nginx学习笔记")
-  -   **\[****比赛****]**[2022华为软件精英挑战赛](https://www.wolai.com/geVswNzTUZn78ytkhQ7Fcb "2022华为软件精英挑战赛")（记录）
-### 🔹Friends
-  -   [**AruNi**](https://0x3f4.run/)
-  -   [**Golruri**](https://goiruri.github.io/ "Golruri")
-### 🔹博客
+#### Ing
+  - 春招投递中
+  - 毕业论文中
+
+#### Content
+  - [八股文（维护中，数据库、语言、操作系统、计网...）](https://www.wolai.com/curry00/P5cgmY7kRzMXDRdUjR7XD)
+  - [学习笔记（项目、技术栈、共识算法、比赛...）](https://www.wolai.com/curry00/bQenhdp6M7MfxEgVAmfRpU)
+  - [刷题记录（剑指，hot100...）](https://www.wolai.com/curry00/k8CZJCY3wwWWc11ApSomF)
+
+#### Friends
+  - [AruNi](https://aruni.me/)
+  - [Golruri](https://goiruri.github.io/)
+  - [bigbigni](http://bigbigni.github.io)
+
+#### More
   - [辜飞俊](https://www.gufeijun.com/)
   - [刘丹冰](https://www.yuque.com/aceld/golang)
   - [许大仙](https://www.yuque.com/fairy-era/yg511q)
