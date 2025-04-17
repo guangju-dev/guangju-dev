@@ -1,2 +1,7 @@
-- 大家好，我是**guangju\_dev**，本科是普通双非的机械工程，考研跨考计算机，二战调剂双非硕，在上海实习了一年多，攒了四段实习，校招拿了go、java、测试开发、运维开发的一些offer（含小中大厂独角兽），目前是某大厂后端开发搬砖仔，在尝试做自媒体，也在思考一些基于AI做产品的idea，具体可以看这里[**B站频道**](https://space.bilibili.com/74568474 "B站频道")和[**博客**](https://www.wolai.com/curry00/93ZBcXW4zM4zSUm8h78e33)（八股、中大厂内推码收集...）。
-- vx：curry6\_6（建立了一个交流群，初衷是大家可以抱团取暖，交流信息差，有需要的话可以加下我微信，不收费，用爱发电。）
+## 👋 关于我
+- 大家好，我是**guangju\_dev**，目前在某大厂做Java后端开发，副业也在尝试做自媒体，思考一些关于AI产品的idea，学习大模型开发相关知识，
+
+## 📬 联系我
+- 我建立了求职、技术、想法、读研、内推交流的微信群，需要的同学可以加下我的🛰️vx：curry6_6， 或者大家可以来我的个人频道或者博客（八股、中大厂内推码收集...）里逛逛～ 👉🏻
+[![Bilibili](https://img.shields.io/badge/-B站频道-00A1D6?style=flat&logo=Bilibili&logoColor=white)](https://space.bilibili.com/74568474)
+[![技术博客](https://img.shields.io/badge/-知识博客-FF8C00?style=flat&logo=GitBook&logoColor=white)](https://www.wolai.com/curry00/93ZBcXW4zM4zSUm8h78e33)
